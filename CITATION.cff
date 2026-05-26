@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "PSIN: Physics-Informed Self-Supervised ISTA-Unrolled Network for Sparse Spike Deconvolution"
+message: "If you use this software, please cite the associated manuscript."
+type: software
+authors:
+  - family-names: Shi
+    given-names: Yun-Peng
+  - family-names: Min
+    given-names: Fan
+  - family-names: Wang
+    given-names: Chang-Zhong
+year: 2026
+license: MIT
+repository-code: "https://github.com/<YOUR_USERNAME>/<YOUR_REPOSITORY_NAME>"
